@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+b2c4f870ee4156426a256badb2ea657a CMakeFiles/V4L2ViewerLib_autogen
+fa69d60d104d290e90396ec2d66a96d8 CMakeFiles/V4L2Viewer_autogen
+2d1efcff9a7ecc698985b886c3ce862e GitRevision.h
+a64a9e05eb5855b91b295db9deaa97c6 qrc_V4L2Viewer.cpp

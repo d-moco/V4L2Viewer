@@ -1,0 +1,10 @@
+/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/install/strip.dir
+/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/install/local.dir
+/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/install.dir
+/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/list_install_components.dir
+/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/rebuild_cache.dir
+/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/edit_cache.dir
+/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/V4L2Viewer.dir
+/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/V4L2ViewerLib.dir
+/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/V4L2Viewer_autogen.dir
+/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/V4L2ViewerLib_autogen.dir

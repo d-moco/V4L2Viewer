@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/V4L2Viewer.dir/V4L2Viewer_autogen/mocs_compilation.cpp.o CMakeFiles/V4L2Viewer.dir/Source/main.cpp.o  -o V4L2Viewer  libV4L2ViewerLib.a /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 -lpthread 

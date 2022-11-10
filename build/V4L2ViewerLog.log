@@ -1,0 +1,480 @@
+13:32:18.845924: +++++ logger started. +++++
+13:32:18.985290: Camera.cpp:532: Camera::DeviceDiscoveryStart open /dev/video0 found
+13:32:18.985327: Camera.cpp:543: CameraObserver::DeviceDiscoveryStart /dev/video0 is a single-plane video capture device
+13:32:18.986327: Camera.cpp:567: Camera::DeviceDiscoveryStart close /dev/video0 OK
+13:32:18.986348: Camera.cpp:532: Camera::DeviceDiscoveryStart open /dev/video1 found
+13:32:18.986354: Camera.cpp:543: CameraObserver::DeviceDiscoveryStart /dev/video1 is a single-plane video capture device
+13:32:18.986901: Camera.cpp:567: Camera::DeviceDiscoveryStart close /dev/video1 OK
+13:32:18.986914: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video2 failed errno=2=ENOENT=No such file or directory
+13:32:18.986920: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video3 failed errno=2=ENOENT=No such file or directory
+13:32:18.986926: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video4 failed errno=2=ENOENT=No such file or directory
+13:32:18.986931: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video5 failed errno=2=ENOENT=No such file or directory
+13:32:18.986935: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video6 failed errno=2=ENOENT=No such file or directory
+13:32:18.986940: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video7 failed errno=2=ENOENT=No such file or directory
+13:32:18.986945: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video8 failed errno=2=ENOENT=No such file or directory
+13:32:18.986949: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video9 failed errno=2=ENOENT=No such file or directory
+13:32:18.986954: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video10 failed errno=2=ENOENT=No such file or directory
+13:32:18.986959: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video11 failed errno=2=ENOENT=No such file or directory
+13:32:18.986965: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video12 failed errno=2=ENOENT=No such file or directory
+13:32:18.986970: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video13 failed errno=2=ENOENT=No such file or directory
+13:32:18.986974: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video14 failed errno=2=ENOENT=No such file or directory
+13:32:18.986980: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video15 failed errno=2=ENOENT=No such file or directory
+13:32:18.986985: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video16 failed errno=2=ENOENT=No such file or directory
+13:32:18.986989: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video17 failed errno=2=ENOENT=No such file or directory
+13:32:18.986995: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video18 failed errno=2=ENOENT=No such file or directory
+13:32:18.987000: Camera.cpp:526: Camera::DeviceDiscoveryStart open /dev/video19 failed errno=2=ENOENT=No such file or directory
+13:32:18.987006: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev0 failed errno=2=ENOENT=No such file or directory
+13:32:18.987011: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev1 failed errno=2=ENOENT=No such file or directory
+13:32:18.987017: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev2 failed errno=2=ENOENT=No such file or directory
+13:32:18.987022: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev3 failed errno=2=ENOENT=No such file or directory
+13:32:18.987027: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev4 failed errno=2=ENOENT=No such file or directory
+13:32:18.987032: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev5 failed errno=2=ENOENT=No such file or directory
+13:32:18.987037: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev6 failed errno=2=ENOENT=No such file or directory
+13:32:18.987042: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev7 failed errno=2=ENOENT=No such file or directory
+13:32:18.987047: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev8 failed errno=2=ENOENT=No such file or directory
+13:32:18.987052: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev9 failed errno=2=ENOENT=No such file or directory
+13:32:18.987056: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev10 failed errno=2=ENOENT=No such file or directory
+13:32:18.987061: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev11 failed errno=2=ENOENT=No such file or directory
+13:32:18.987066: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev12 failed errno=2=ENOENT=No such file or directory
+13:32:18.987071: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev13 failed errno=2=ENOENT=No such file or directory
+13:32:18.987076: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev14 failed errno=2=ENOENT=No such file or directory
+13:32:18.987081: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev15 failed errno=2=ENOENT=No such file or directory
+13:32:18.987085: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev16 failed errno=2=ENOENT=No such file or directory
+13:32:18.987090: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev17 failed errno=2=ENOENT=No such file or directory
+13:32:18.987095: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev18 failed errno=2=ENOENT=No such file or directory
+13:32:18.987099: Camera.cpp:597: Camera::SubDeviceDiscoveryStart open /dev/v4l-subdev19 failed errno=2=ENOENT=No such file or directory
+13:32:19.67846: V4L2Viewer.cpp:254: V4L2Viewer git commit = f225a38228add956fd894d075a7bf6db1cf4d535
+13:32:21.813134: Camera.cpp:297: Camera::OpenDevice device /dev/video0 has file descriptor 22
+13:32:21.813198: Camera.cpp:311: Camera::OpenDevice /dev/video0 is a single-plane video capture device
+13:32:21.813215: Camera.cpp:448: Camera::QueryControls querying controls for /dev/video0
+13:32:21.816490: Camera.cpp:453: Camera::QueryControls id=9963776,name=Brightness,flags=0,min=-64,max=64,step=1,type=1,defval=0
+13:32:21.819752: Camera.cpp:453: Camera::QueryControls id=9963777,name=Contrast,flags=0,min=0,max=95,step=1,type=1,defval=0
+13:32:21.823079: Camera.cpp:453: Camera::QueryControls id=9963778,name=Saturation,flags=0,min=0,max=100,step=1,type=1,defval=64
+13:32:21.826352: Camera.cpp:453: Camera::QueryControls id=9963779,name=Hue,flags=0,min=-2000,max=2000,step=1,type=1,defval=0
+13:32:21.827216: Camera.cpp:453: Camera::QueryControls id=9963788,name=White Balance Temperature, Auto,flags=0,min=0,max=1,step=1,type=2,defval=1
+13:32:21.830525: Camera.cpp:453: Camera::QueryControls id=9963792,name=Gamma,flags=0,min=100,max=300,step=1,type=1,defval=100
+13:32:21.831336: Camera.cpp:453: Camera::QueryControls id=9963800,name=Power Line Frequency,flags=0,min=0,max=2,step=1,type=3,defval=1
+13:32:21.835600: Camera.cpp:453: Camera::QueryControls id=9963802,name=White Balance Temperature,flags=16,min=2800,max=6500,step=1,type=1,defval=4600
+13:32:21.839140: Camera.cpp:453: Camera::QueryControls id=9963803,name=Sharpness,flags=0,min=0,max=7,step=1,type=1,defval=2
+13:32:21.842809: Camera.cpp:453: Camera::QueryControls id=9963804,name=Backlight Compensation,flags=0,min=0,max=1,step=1,type=1,defval=1
+13:32:21.844566: Camera.cpp:453: Camera::QueryControls id=10094849,name=Exposure, Auto,flags=0,min=0,max=3,step=1,type=3,defval=3
+13:32:21.849574: Camera.cpp:453: Camera::QueryControls id=10094850,name=Exposure (Absolute),flags=16,min=4,max=1250,step=1,type=1,defval=156
+13:32:21.849639: Camera.cpp:457: Camera::QueryControls querying control menu
+13:32:21.849658: Camera.cpp:466: Camera::QueryControls querying extended controls
+13:32:21.849687: Camera.cpp:471: Camera::QueryControls id=9963776,name=Brightness,flags=0,min=-64,max=64,step=1,type=1,defval=0,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849709: Camera.cpp:471: Camera::QueryControls id=9963777,name=Contrast,flags=0,min=0,max=95,step=1,type=1,defval=0,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849733: Camera.cpp:471: Camera::QueryControls id=9963778,name=Saturation,flags=0,min=0,max=100,step=1,type=1,defval=64,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849756: Camera.cpp:471: Camera::QueryControls id=9963779,name=Hue,flags=0,min=-2000,max=2000,step=1,type=1,defval=0,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849779: Camera.cpp:471: Camera::QueryControls id=9963788,name=White Balance Temperature, Auto,flags=0,min=0,max=1,step=1,type=2,defval=1,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849800: Camera.cpp:471: Camera::QueryControls id=9963792,name=Gamma,flags=0,min=100,max=300,step=1,type=1,defval=100,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849821: Camera.cpp:471: Camera::QueryControls id=9963800,name=Power Line Frequency,flags=0,min=0,max=2,step=1,type=3,defval=1,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849844: Camera.cpp:471: Camera::QueryControls id=9963802,name=White Balance Temperature,flags=16,min=2800,max=6500,step=1,type=1,defval=4600,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849865: Camera.cpp:471: Camera::QueryControls id=9963803,name=Sharpness,flags=0,min=0,max=7,step=1,type=1,defval=2,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849885: Camera.cpp:471: Camera::QueryControls id=9963804,name=Backlight Compensation,flags=0,min=0,max=1,step=1,type=1,defval=1,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849906: Camera.cpp:471: Camera::QueryControls id=10094849,name=Exposure, Auto,flags=0,min=0,max=3,step=1,type=3,defval=3,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.849929: Camera.cpp:471: Camera::QueryControls id=10094850,name=Exposure (Absolute),flags=16,min=4,max=1250,step=1,type=1,defval=156,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.850102: Camera.cpp:2458: Camera::GetCameraCapabilities VIDIOC_QUERYCAP /dev/video0 capabilities=0x84a00001
+    Read/Write = No
+    Streaming = Yes
+
+13:32:21.850153: Camera.cpp:2661: Camera::ReadRegister VIDIOC_R_I2C /dev/video0 not OK
+
+13:32:21.850181: Camera.cpp:334: Camera::OpenDevice open /dev/video0 OK
+13:32:21.850418: Camera.cpp:2401: Camera::GetCameraReadCapability VIDIOC_QUERYCAP /dev/video0 capabilities=0x84a00001
+    Read/Write = No
+    Streaming = Yes
+
+13:32:21.850817: Camera.cpp:417: Camera::CloseDevice close /dev/video0 OK
+13:32:21.852050: Camera.cpp:297: Camera::OpenDevice device /dev/video0 has file descriptor 22
+13:32:21.852090: Camera.cpp:311: Camera::OpenDevice /dev/video0 is a single-plane video capture device
+13:32:21.852106: Camera.cpp:448: Camera::QueryControls querying controls for /dev/video0
+13:32:21.852132: Camera.cpp:453: Camera::QueryControls id=9963776,name=Brightness,flags=0,min=-64,max=64,step=1,type=1,defval=0
+13:32:21.852152: Camera.cpp:453: Camera::QueryControls id=9963777,name=Contrast,flags=0,min=0,max=95,step=1,type=1,defval=0
+13:32:21.852170: Camera.cpp:453: Camera::QueryControls id=9963778,name=Saturation,flags=0,min=0,max=100,step=1,type=1,defval=64
+13:32:21.852190: Camera.cpp:453: Camera::QueryControls id=9963779,name=Hue,flags=0,min=-2000,max=2000,step=1,type=1,defval=0
+13:32:21.852210: Camera.cpp:453: Camera::QueryControls id=9963788,name=White Balance Temperature, Auto,flags=0,min=0,max=1,step=1,type=2,defval=1
+13:32:21.852228: Camera.cpp:453: Camera::QueryControls id=9963792,name=Gamma,flags=0,min=100,max=300,step=1,type=1,defval=100
+13:32:21.852247: Camera.cpp:453: Camera::QueryControls id=9963800,name=Power Line Frequency,flags=0,min=0,max=2,step=1,type=3,defval=1
+13:32:21.852266: Camera.cpp:453: Camera::QueryControls id=9963802,name=White Balance Temperature,flags=16,min=2800,max=6500,step=1,type=1,defval=4600
+13:32:21.852284: Camera.cpp:453: Camera::QueryControls id=9963803,name=Sharpness,flags=0,min=0,max=7,step=1,type=1,defval=2
+13:32:21.852301: Camera.cpp:453: Camera::QueryControls id=9963804,name=Backlight Compensation,flags=0,min=0,max=1,step=1,type=1,defval=1
+13:32:21.852319: Camera.cpp:453: Camera::QueryControls id=10094849,name=Exposure, Auto,flags=0,min=0,max=3,step=1,type=3,defval=3
+13:32:21.852337: Camera.cpp:453: Camera::QueryControls id=10094850,name=Exposure (Absolute),flags=16,min=4,max=1250,step=1,type=1,defval=156
+13:32:21.852353: Camera.cpp:457: Camera::QueryControls querying control menu
+13:32:21.852369: Camera.cpp:466: Camera::QueryControls querying extended controls
+13:32:21.852395: Camera.cpp:471: Camera::QueryControls id=9963776,name=Brightness,flags=0,min=-64,max=64,step=1,type=1,defval=0,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852417: Camera.cpp:471: Camera::QueryControls id=9963777,name=Contrast,flags=0,min=0,max=95,step=1,type=1,defval=0,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852438: Camera.cpp:471: Camera::QueryControls id=9963778,name=Saturation,flags=0,min=0,max=100,step=1,type=1,defval=64,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852459: Camera.cpp:471: Camera::QueryControls id=9963779,name=Hue,flags=0,min=-2000,max=2000,step=1,type=1,defval=0,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852481: Camera.cpp:471: Camera::QueryControls id=9963788,name=White Balance Temperature, Auto,flags=0,min=0,max=1,step=1,type=2,defval=1,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852502: Camera.cpp:471: Camera::QueryControls id=9963792,name=Gamma,flags=0,min=100,max=300,step=1,type=1,defval=100,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852522: Camera.cpp:471: Camera::QueryControls id=9963800,name=Power Line Frequency,flags=0,min=0,max=2,step=1,type=3,defval=1,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852545: Camera.cpp:471: Camera::QueryControls id=9963802,name=White Balance Temperature,flags=16,min=2800,max=6500,step=1,type=1,defval=4600,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852565: Camera.cpp:471: Camera::QueryControls id=9963803,name=Sharpness,flags=0,min=0,max=7,step=1,type=1,defval=2,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852586: Camera.cpp:471: Camera::QueryControls id=9963804,name=Backlight Compensation,flags=0,min=0,max=1,step=1,type=1,defval=1,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852608: Camera.cpp:471: Camera::QueryControls id=10094849,name=Exposure, Auto,flags=0,min=0,max=3,step=1,type=3,defval=3,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852629: Camera.cpp:471: Camera::QueryControls id=10094850,name=Exposure (Absolute),flags=16,min=4,max=1250,step=1,type=1,defval=156,elsz=4,elms=1,ndims=0,dim0=0,dim1=0,dim2=0,dim3=0
+13:32:21.852666: Camera.cpp:2458: Camera::GetCameraCapabilities VIDIOC_QUERYCAP /dev/video0 capabilities=0x84a00001
+    Read/Write = No
+    Streaming = Yes
+
+13:32:21.852689: Camera.cpp:2661: Camera::ReadRegister VIDIOC_R_I2C /dev/video0 not OK
+
+13:32:21.852704: Camera.cpp:334: Camera::OpenDevice open /dev/video0 OK
+13:32:21.853187: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963776=V4L2_CID_BRIGHTNESS min=-64, max=64, default=0
+13:32:21.853229: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=-64, max=64, default=0
+13:32:21.854075: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =0
+13:32:21.854116: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Brightness
+13:32:21.856568: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963777=V4L2_CID_CONTRAST min=0, max=95, default=0
+13:32:21.856615: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=0, max=95, default=0
+13:32:21.857474: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =0
+13:32:21.857510: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Contrast
+13:32:21.859782: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963778=V4L2_CID_SATURATION min=0, max=100, default=64
+13:32:21.859840: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=0, max=100, default=64
+13:32:21.860713: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =64
+13:32:21.860754: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Saturation
+13:32:21.863336: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963779=V4L2_CID_HUE min=-2000, max=2000, default=0
+13:32:21.863388: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=-2000, max=2000, default=0
+13:32:21.864184: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =0
+13:32:21.864204: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Hue
+13:32:21.866174: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963788=V4L2_CID_AUTO_WHITE_BALANCE min=0, max=1, default=1
+13:32:21.866218: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_BOOLEAN OK, min=0, max=1, default=1
+13:32:21.866240: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_BOOLEAN OK =1
+13:32:21.866255: Camera.cpp:1340: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for White Balance Temperature, Auto
+13:32:21.870837: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963792=V4L2_CID_GAMMA min=100, max=300, default=100
+13:32:21.870881: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=100, max=300, default=100
+13:32:21.872045: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =100
+13:32:21.872114: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Gamma
+13:32:21.874360: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963800=V4L2_CID_POWER_LINE_FREQUENCY min=0, max=2, default=1
+13:32:21.874412: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_MENU OK, min=0, max=2, default=1
+13:32:21.875345: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_MENU OK =1
+13:32:21.875459: Camera.cpp:1375: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Power Line Frequency
+13:32:21.880531: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963802=V4L2_CID_WHITE_BALANCE_TEMPERATURE min=2800, max=6500, default=4600
+13:32:21.880582: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=2800, max=6500, default=4600
+13:32:21.881652: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =4600
+13:32:21.881703: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for White Balance Temperature
+13:32:21.884019: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963803=V4L2_CID_SHARPNESS min=0, max=7, default=2
+13:32:21.884073: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=0, max=7, default=2
+13:32:21.885108: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =2
+13:32:21.885159: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Sharpness
+13:32:21.887457: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963804=V4L2_CID_BACKLIGHT_COMPENSATION min=0, max=1, default=1
+13:32:21.887507: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=0, max=1, default=1
+13:32:21.888419: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =1
+13:32:21.888471: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Backlight Compensation
+13:32:21.890866: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=10094849=V4L2_CID_EXPOSURE_AUTO min=0, max=3, default=3
+13:32:21.890920: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_MENU OK, min=0, max=3, default=3
+13:32:21.890944: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_MENU OK =3
+13:32:21.890968: Camera.cpp:1375: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Exposure, Auto
+13:32:21.895624: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=10094850=V4L2_CID_EXPOSURE_ABSOLUTE min=4, max=1250, default=156
+13:32:21.895670: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=4, max=1250, default=156
+13:32:21.896627: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =156
+13:32:21.896652: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Exposure (Absolute)
+13:32:21.898078: Camera.cpp:1417: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0: NumControls=12
+13:32:21.898111: Camera.cpp:1771: Camera::PrepareFrameRate VIDIOC_G_CROP /dev/video0
+13:32:21.898125: Camera.cpp:1802: Camera::PrepareCrop no device for cropping
+13:32:21.898157: Camera.cpp:758: Camera::ReadPayloadSize VIDIOC_G_FMT /dev/video0 OK =1843200
+13:32:21.898170: Camera.cpp:783: Camera::ReadFrameSize VIDIOC_G_FMT /dev/video0 OK =1280x720
+13:32:21.898180: V4L2Viewer.cpp:1823: V4L2Viewer::UpdateCameraFormat: width=1280, height=720
+13:32:21.898275: Camera.cpp:1221: Camera::ReadPixelFormat VIDIOC_G_FMT /dev/video0 OK =1196444237
+13:32:21.898293: Camera.cpp:1015: Camera::ReadFormats /dev/video0
+13:32:21.898311: Camera.cpp:1022: Camera::ReadFormats VIDIOC_ENUM_FMT index = 0 type = 1 pixel format = 1196444237 = V4L2_PIX_FMT_MJPEG description = Motion-JPEG
+13:32:21.898350: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 1280 height = 720
+13:32:21.898364: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 960 height = 540
+13:32:21.898376: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 848 height = 480
+13:32:21.898387: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 640 height = 480
+13:32:21.898398: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 640 height = 360
+13:32:21.898414: Camera.cpp:1022: Camera::ReadFormats VIDIOC_ENUM_FMT index = 1 type = 1 pixel format = 1448695129 = V4L2_PIX_FMT_YUYV description = YUYV 4:2:2
+13:32:21.898434: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 1280 height = 720
+13:32:21.898446: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 960 height = 540
+13:32:21.898458: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 848 height = 480
+13:32:21.898469: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 640 height = 480
+13:32:21.898480: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 640 height = 360
+13:32:21.898548: Camera.cpp:1483: Camera::ReadExtControl /dev/video0 control White Balance Temperature, Auto
+13:32:21.898567: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadAutoWhiteBalance control name: V4L2_CID_AUTO_WHITE_BALANCE OK, min=0, max=1, default=1
+13:32:21.898582: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadAutoWhiteBalance control name: V4L2_CID_AUTO_WHITE_BALANCE OK =1
+13:32:21.898602: Camera.cpp:1483: Camera::ReadExtControl  control 
+13:32:21.898619: Camera.cpp:1472: Camera::ReadExtControl VIDIOC_QUERYCTRL  function name: ReadGain control name: V4L2_CID_GAIN failed errno=25=ENOTTY=Not a typewriter
+13:32:21.898652: Camera.cpp:1561: Camera::ReadMinMax VIDIOC_QUERYCTRL  function name: ReadMinMaxGain control name: V4L2_CID_GAIN () failed errno=25=ENOTTY=Not a typewriter
+13:32:21.898671: Camera.cpp:1483: Camera::ReadExtControl  control 
+13:32:21.898684: Camera.cpp:1472: Camera::ReadExtControl VIDIOC_QUERYCTRL  function name: ReadAutoGain control name: V4L2_CID_AUTOGAIN failed errno=25=ENOTTY=Not a typewriter
+13:32:21.898704: Camera.cpp:1483: Camera::ReadExtControl  control 
+13:32:21.898717: Camera.cpp:1472: Camera::ReadExtControl VIDIOC_QUERYCTRL  function name: ReadExposure control name: V4L2_CID_EXPOSURE failed errno=25=ENOTTY=Not a typewriter
+13:32:21.898726: V4L2Viewer.cpp:1649: V4L2Viewer::GetImageInformation: exposure not controllable
+13:32:21.898781: Camera.cpp:1561: Camera::ReadMinMax VIDIOC_QUERYCTRL  function name: ReadExposureMinMax control name: V4L2_CID_EXPOSURE () failed errno=25=ENOTTY=Not a typewriter
+13:32:21.898796: Camera.cpp:1483: Camera::ReadExtControl /dev/video0 control Exposure, Auto
+13:32:21.898813: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadAutoExposure control name: V4L2_CID_EXPOSURE_AUTO OK, min=0, max=3, default=3
+13:32:21.898826: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadAutoExposure control name: V4L2_CID_EXPOSURE_AUTO OK =3
+13:32:21.898838: Camera.cpp:1483: Camera::ReadExtControl /dev/video0 control Brightness
+13:32:21.898853: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadBrightness control name: V4L2_CID_BRIGHTNESS OK, min=-64, max=64, default=0
+13:32:21.898866: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadBrightness control name: V4L2_CID_BRIGHTNESS OK =0
+13:32:21.898906: Camera.cpp:1555: Camera::ReadMinMax VIDIOC_QUERYCTRL /dev/video0 function name: ReadMinMaxBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) OK, min=-64, max=64, default=0
+13:32:21.898924: Camera.cpp:783: Camera::ReadFrameSize VIDIOC_G_FMT /dev/video0 OK =1280x720
+13:32:21.898935: V4L2Viewer.cpp:1721: V4L2Viewer::GetImageInformation: width=1280, height=720
+13:32:21.898953: Camera.cpp:1221: Camera::ReadPixelFormat VIDIOC_G_FMT /dev/video0 OK =1196444237
+13:32:21.898968: Camera.cpp:1945: Camera::ReadFrameRate type=1
+13:32:21.898980: Camera.cpp:1960: Camera::ReadFrameRate VIDIOC_G_PARM /dev/video0 1/30OK
+13:32:21.899019: Camera.cpp:2032: Camera::ReadCrop VIDIOC_G_CROP  failed errno=9=EBADF=Bad file number
+13:32:21.899086: Camera.cpp:1483: Camera::ReadExtControl /dev/video0 control Gamma
+13:32:21.899108: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadGamma control name: V4L2_CID_GAMMA OK, min=100, max=300, default=100
+13:32:21.899122: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadGamma control name: V4L2_CID_GAMMA OK =100
+13:32:21.899196: Camera.cpp:1555: Camera::ReadMinMax VIDIOC_QUERYCTRL /dev/video0 function name: ReadMinMaxGamma control name: V4L2_CID_GAMMA (Gamma) OK, min=100, max=300, default=100
+13:32:21.912613: Camera.cpp:1997: Camera::SetFrameRate VIDIOC_S_PARM /dev/video0 to 0/8 (0.00) OK
+13:32:21.913159: Camera.cpp:2458: Camera::GetCameraCapabilities VIDIOC_QUERYCAP /dev/video0 capabilities=0x84a00001
+    Read/Write = No
+    Streaming = Yes
+
+13:32:21.913186: Camera.cpp:2661: Camera::ReadRegister VIDIOC_R_I2C /dev/video0 not OK
+
+13:32:21.913203: Camera.cpp:2458: Camera::GetCameraCapabilities VIDIOC_QUERYCAP /dev/video0 capabilities=0x84a00001
+    Read/Write = No
+    Streaming = Yes
+
+13:32:21.913214: Camera.cpp:2661: Camera::ReadRegister VIDIOC_R_I2C /dev/video0 not OK
+
+13:32:21.913225: Camera.cpp:2142: Camera::GetCameraDriverName VIDIOC_QUERYCAP /dev/video0 driver name=uvcvideo
+
+13:32:21.913237: Camera.cpp:2242: Camera::GetCameraBusInfo VIDIOC_QUERYCAP /dev/video0 bus info=usb-0000:00:14.0-6
+
+13:32:21.913251: Camera.cpp:2294: Camera::GetCameraDriverVersion VIDIOC_QUERYCAP /dev/video0 driver version info string=ov9734_techfront_camera: ov9734
+
+13:32:21.913264: Camera.cpp:2350: Camera::GetCameraDriverVersion Couldn't get driver version for VIDIOC_QUERYCAP /dev/video0 device name=ov9734_techfront_camera: ov9734
+
+13:32:21.913280: Camera.cpp:2458: Camera::GetCameraCapabilities VIDIOC_QUERYCAP /dev/video0 capabilities=0x84a00001
+    Read/Write = No
+    Streaming = Yes
+
+13:32:23.318490: Camera.cpp:758: Camera::ReadPayloadSize VIDIOC_G_FMT /dev/video0 OK =1843200
+13:32:23.318546: Camera.cpp:783: Camera::ReadFrameSize VIDIOC_G_FMT /dev/video0 OK =1280x720
+13:32:23.318566: Camera.cpp:1221: Camera::ReadPixelFormat VIDIOC_G_FMT /dev/video0 OK =1196444237
+13:32:23.318590: V4L2Viewer.cpp:477: V4L2Viewer::OnStartButtonClicked width=1280,height=720
+13:32:23.321643: V4L2Viewer.cpp:850: V4L2Viewer::StartStreaming pixelFormat=1196444237,payloadSize=1843200,width=1280,height=720,bytesPerLine=0
+13:32:23.321693: FrameObserverUSER.cpp:115: FrameObserverUSER::CreateAllUserBuffer VIDIOC_REQBUFS OK
+13:32:23.321777: V4L2Viewer.cpp:856: V4L2Viewer::StartStreaming streaming will be started
+13:32:23.322536: FrameObserverUSER.cpp:180: FrameObserverUSER::QueueAllUserBuffer VIDIOC_QBUF queue #0 buffer=0x557dfdb5c580 OK
+13:32:23.323584: FrameObserverUSER.cpp:180: FrameObserverUSER::QueueAllUserBuffer VIDIOC_QBUF queue #1 buffer=0x557dfdd1e600 OK
+13:32:23.324597: FrameObserverUSER.cpp:180: FrameObserverUSER::QueueAllUserBuffer VIDIOC_QBUF queue #2 buffer=0x557dfdee0680 OK
+13:32:23.325646: FrameObserverUSER.cpp:180: FrameObserverUSER::QueueAllUserBuffer VIDIOC_QBUF queue #3 buffer=0x557dfe0a2700 OK
+13:32:23.326704: FrameObserverUSER.cpp:180: FrameObserverUSER::QueueAllUserBuffer VIDIOC_QBUF queue #4 buffer=0x557dfe264780 OK
+13:32:23.330638: Camera.cpp:717: Camera::StartStreaming VIDIOC_STREAMON OK
+13:32:23.330714: Camera.cpp:664: Camera::StartStreamChannel /dev/video0 pixelFormat=1196444237, payloadSize=1843200, width=1280, height=720.
+13:32:23.331015: Camera.cpp:672: Camera::StartStreamChannel OK.
+13:32:28.14153: Camera.cpp:681: Camera::StopStreamChannel started.
+13:32:28.44556: Camera.cpp:687: Camera::StopStreamChannel OK.
+13:32:28.45651: Camera.cpp:738: Camera::StopStreaming VIDIOC_STREAMOFF OK
+13:32:37.28527: Camera.cpp:758: Camera::ReadPayloadSize VIDIOC_G_FMT /dev/video0 OK =1843200
+13:32:37.28582: Camera.cpp:783: Camera::ReadFrameSize VIDIOC_G_FMT /dev/video0 OK =1280x720
+13:32:37.28602: Camera.cpp:1221: Camera::ReadPixelFormat VIDIOC_G_FMT /dev/video0 OK =1196444237
+13:32:37.28636: V4L2Viewer.cpp:477: V4L2Viewer::OnStartButtonClicked width=1280,height=720
+13:32:37.31775: V4L2Viewer.cpp:850: V4L2Viewer::StartStreaming pixelFormat=1196444237,payloadSize=1843200,width=1280,height=720,bytesPerLine=0
+13:32:37.31826: FrameObserverUSER.cpp:115: FrameObserverUSER::CreateAllUserBuffer VIDIOC_REQBUFS OK
+13:32:37.31901: V4L2Viewer.cpp:856: V4L2Viewer::StartStreaming streaming will be started
+13:32:37.32018: FrameObserverUSER.cpp:180: FrameObserverUSER::QueueAllUserBuffer VIDIOC_QBUF queue #0 buffer=0x557dfe0a2700 OK
+13:32:37.32223: FrameObserverUSER.cpp:180: FrameObserverUSER::QueueAllUserBuffer VIDIOC_QBUF queue #1 buffer=0x557dfe428b00 OK
+13:32:37.33873: FrameObserverUSER.cpp:180: FrameObserverUSER::QueueAllUserBuffer VIDIOC_QBUF queue #2 buffer=0x557dfe5eab80 OK
+13:32:37.35373: FrameObserverUSER.cpp:180: FrameObserverUSER::QueueAllUserBuffer VIDIOC_QBUF queue #3 buffer=0x557dfe7acc00 OK
+13:32:37.36557: FrameObserverUSER.cpp:180: FrameObserverUSER::QueueAllUserBuffer VIDIOC_QBUF queue #4 buffer=0x557dfe96ec80 OK
+13:32:37.39994: Camera.cpp:717: Camera::StartStreaming VIDIOC_STREAMON OK
+13:32:37.40055: Camera.cpp:664: Camera::StartStreamChannel /dev/video0 pixelFormat=1196444237, payloadSize=1843200, width=1280, height=720.
+13:32:37.40258: Camera.cpp:672: Camera::StartStreamChannel OK.
+13:32:38.379886: Camera.cpp:1526: Camera::SetExtControl VIDIOC_TRY_EXT_CTRLS /dev/video0 function name: SetAutoExposure control name: V4L2_CID_EXPOSURE_AUTO (Exposure, Auto) failed errno=22=EINVAL=Invalid argument
+13:32:38.379928: Camera.cpp:1483: Camera::ReadExtControl /dev/video0 control Exposure, Auto
+13:32:38.379945: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadAutoExposure control name: V4L2_CID_EXPOSURE_AUTO OK, min=0, max=3, default=3
+13:32:38.379957: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadAutoExposure control name: V4L2_CID_EXPOSURE_AUTO OK =3
+13:32:42.348360: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 10 OK
+13:32:42.823769: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 7 OK
+13:32:43.852355: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 8 OK
+13:32:43.891721: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 10 OK
+13:32:43.901063: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 12 OK
+13:32:43.907580: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 14 OK
+13:32:43.915486: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 18 OK
+13:32:43.923272: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 19 OK
+13:32:43.931330: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 22 OK
+13:32:43.939279: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 25 OK
+13:32:43.947416: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 28 OK
+13:32:43.955655: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 29 OK
+13:32:43.965496: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 32 OK
+13:32:43.971532: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 34 OK
+13:32:43.979437: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 37 OK
+13:32:43.987416: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 43 OK
+13:32:43.996129: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 47 OK
+13:32:44.3525: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 53 OK
+13:32:44.12878: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 55 OK
+13:32:44.19537: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 58 OK
+13:32:44.27791: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 60 OK
+13:32:44.35597: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 62 OK
+13:32:44.43562: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 64 OK
+13:32:44.739286: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 56 OK
+13:32:44.747357: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 45 OK
+13:32:44.755366: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 36 OK
+13:32:44.763496: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 28 OK
+13:32:44.771276: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 21 OK
+13:32:44.779420: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 16 OK
+13:32:44.788037: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 11 OK
+13:32:44.795291: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 5 OK
+13:32:44.803244: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 1 OK
+13:32:44.811716: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -4 OK
+13:32:44.819521: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -11 OK
+13:32:44.830820: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -19 OK
+13:32:44.836774: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -29 OK
+13:32:44.843254: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -38 OK
+13:32:44.851505: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -50 OK
+13:32:44.859401: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -58 OK
+13:32:44.867478: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -64 OK
+13:32:45.251164: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -53 OK
+13:32:45.259398: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -45 OK
+13:32:45.271467: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -37 OK
+13:32:45.275961: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -27 OK
+13:32:45.283325: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -18 OK
+13:32:45.291126: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -7 OK
+13:32:45.299112: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 1 OK
+13:32:45.307097: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 10 OK
+13:32:45.317249: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 19 OK
+13:32:45.323306: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 26 OK
+13:32:45.331064: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 33 OK
+13:32:45.339550: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 38 OK
+13:32:45.350013: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 41 OK
+13:32:45.356083: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 42 OK
+13:32:45.363450: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 44 OK
+13:32:45.371301: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 45 OK
+13:32:45.382421: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 47 OK
+13:32:45.387088: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 49 OK
+13:32:45.396005: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 52 OK
+13:32:45.404501: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 57 OK
+13:32:45.411590: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 59 OK
+13:32:45.420627: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 64 OK
+13:32:45.771144: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 47 OK
+13:32:45.779340: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 25 OK
+13:32:45.787351: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -1 OK
+13:32:45.797209: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -21 OK
+13:32:45.803247: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -44 OK
+13:32:45.814173: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -61 OK
+13:32:45.819337: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -64 OK
+13:32:46.515027: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -58 OK
+13:32:46.523018: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -34 OK
+13:32:46.530930: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -14 OK
+13:32:46.539037: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 8 OK
+13:32:46.548162: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 31 OK
+13:32:46.554965: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 53 OK
+13:32:46.563049: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 64 OK
+13:32:47.188654: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 58 OK
+13:32:47.194960: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 33 OK
+13:32:47.204153: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 6 OK
+13:32:47.211458: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -22 OK
+13:32:47.218927: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -43 OK
+13:32:47.227015: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -64 OK
+13:32:47.834938: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -48 OK
+13:32:47.842905: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to -7 OK
+13:32:47.850782: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 37 OK
+13:32:47.859250: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 64 OK
+13:32:48.338825: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 59 OK
+13:32:48.347304: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 48 OK
+13:32:48.355308: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 42 OK
+13:32:48.363064: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 37 OK
+13:32:48.371095: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 35 OK
+13:32:48.395151: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 34 OK
+13:32:48.562861: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 35 OK
+13:32:48.586944: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 36 OK
+13:32:48.683512: Camera.cpp:1516: Camera::SetExtControl VIDIOC_S_EXT_CTRLS /dev/video0 function name: SetBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) to 34 OK
+13:32:48.683604: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963776=V4L2_CID_BRIGHTNESS min=-64, max=64, default=0
+13:32:48.683628: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=-64, max=64, default=0
+13:32:48.683648: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =34
+13:32:48.683656: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Brightness
+13:32:48.683710: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963777=V4L2_CID_CONTRAST min=0, max=95, default=0
+13:32:48.683726: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=0, max=95, default=0
+13:32:48.683737: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =0
+13:32:48.683745: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Contrast
+13:32:48.683765: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963778=V4L2_CID_SATURATION min=0, max=100, default=64
+13:32:48.683777: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=0, max=100, default=64
+13:32:48.683787: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =64
+13:32:48.683794: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Saturation
+13:32:48.683812: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963779=V4L2_CID_HUE min=-2000, max=2000, default=0
+13:32:48.683825: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=-2000, max=2000, default=0
+13:32:48.684633: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =0
+13:32:48.684653: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Hue
+13:32:48.684685: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963788=V4L2_CID_AUTO_WHITE_BALANCE min=0, max=1, default=1
+13:32:48.684701: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_BOOLEAN OK, min=0, max=1, default=1
+13:32:48.684714: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_BOOLEAN OK =1
+13:32:48.684721: Camera.cpp:1340: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for White Balance Temperature, Auto
+13:32:48.684745: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963792=V4L2_CID_GAMMA min=100, max=300, default=100
+13:32:48.684758: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=100, max=300, default=100
+13:32:48.684768: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =100
+13:32:48.684775: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Gamma
+13:32:48.684795: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963800=V4L2_CID_POWER_LINE_FREQUENCY min=0, max=2, default=1
+13:32:48.684807: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_MENU OK, min=0, max=2, default=1
+13:32:48.684817: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_MENU OK =1
+13:32:48.684829: Camera.cpp:1375: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Power Line Frequency
+13:32:48.684916: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963802=V4L2_CID_WHITE_BALANCE_TEMPERATURE min=2800, max=6500, default=4600
+13:32:48.684933: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=2800, max=6500, default=4600
+13:32:48.685754: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =4600
+13:32:48.685774: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for White Balance Temperature
+13:32:48.685808: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963803=V4L2_CID_SHARPNESS min=0, max=7, default=2
+13:32:48.685823: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=0, max=7, default=2
+13:32:48.685836: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =2
+13:32:48.685844: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Sharpness
+13:32:48.685864: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=9963804=V4L2_CID_BACKLIGHT_COMPENSATION min=0, max=1, default=1
+13:32:48.685876: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=0, max=1, default=1
+13:32:48.685887: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =1
+13:32:48.685894: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Backlight Compensation
+13:32:48.685912: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=10094849=V4L2_CID_EXPOSURE_AUTO min=0, max=3, default=3
+13:32:48.685923: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_MENU OK, min=0, max=3, default=3
+13:32:48.685933: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_MENU OK =3
+13:32:48.685946: Camera.cpp:1375: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Exposure, Auto
+13:32:48.685998: Camera.cpp:1284: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 id=10094850=V4L2_CID_EXPOSURE_ABSOLUTE min=4, max=1250, default=156
+13:32:48.686014: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK, min=4, max=1250, default=156
+13:32:48.687018: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadEnumerationControl control name: V4L2_CTRL_TYPE_INTEGER OK =156
+13:32:48.687038: Camera.cpp:1306: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0 will be used for Exposure (Absolute)
+13:32:48.687067: Camera.cpp:1417: Camera::EnumAllControlNewStyle VIDIOC_QUERYCTRL /dev/video0: NumControls=12
+13:32:48.687080: Camera.cpp:1771: Camera::PrepareFrameRate VIDIOC_G_CROP /dev/video0
+13:32:48.687091: Camera.cpp:1802: Camera::PrepareCrop no device for cropping
+13:32:48.687121: Camera.cpp:758: Camera::ReadPayloadSize VIDIOC_G_FMT /dev/video0 OK =1843200
+13:32:48.687131: Camera.cpp:783: Camera::ReadFrameSize VIDIOC_G_FMT /dev/video0 OK =1280x720
+13:32:48.687139: V4L2Viewer.cpp:1823: V4L2Viewer::UpdateCameraFormat: width=1280, height=720
+13:32:48.687157: Camera.cpp:1221: Camera::ReadPixelFormat VIDIOC_G_FMT /dev/video0 OK =1196444237
+13:32:48.687167: Camera.cpp:1015: Camera::ReadFormats /dev/video0
+13:32:48.687179: Camera.cpp:1022: Camera::ReadFormats VIDIOC_ENUM_FMT index = 0 type = 1 pixel format = 1196444237 = V4L2_PIX_FMT_MJPEG description = Motion-JPEG
+13:32:48.687204: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 1280 height = 720
+13:32:48.687216: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 960 height = 540
+13:32:48.687224: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 848 height = 480
+13:32:48.687233: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 640 height = 480
+13:32:48.687242: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 640 height = 360
+13:32:48.687254: Camera.cpp:1022: Camera::ReadFormats VIDIOC_ENUM_FMT index = 1 type = 1 pixel format = 1448695129 = V4L2_PIX_FMT_YUYV description = YUYV 4:2:2
+13:32:48.687268: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 1280 height = 720
+13:32:48.687277: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 960 height = 540
+13:32:48.687286: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 848 height = 480
+13:32:48.687295: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 640 height = 480
+13:32:48.687303: Camera.cpp:1036: Camera::ReadFormats VIDIOC_ENUM_FRAMESIZES size enum discrete width = 640 height = 360
+13:32:48.687355: Camera.cpp:1483: Camera::ReadExtControl /dev/video0 control White Balance Temperature, Auto
+13:32:48.687370: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadAutoWhiteBalance control name: V4L2_CID_AUTO_WHITE_BALANCE OK, min=0, max=1, default=1
+13:32:48.687382: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadAutoWhiteBalance control name: V4L2_CID_AUTO_WHITE_BALANCE OK =1
+13:32:48.687392: Camera.cpp:1483: Camera::ReadExtControl  control 
+13:32:48.687404: Camera.cpp:1472: Camera::ReadExtControl VIDIOC_QUERYCTRL  function name: ReadGain control name: V4L2_CID_GAIN failed errno=25=ENOTTY=Not a typewriter
+13:32:48.687416: Camera.cpp:1561: Camera::ReadMinMax VIDIOC_QUERYCTRL  function name: ReadMinMaxGain control name: V4L2_CID_GAIN () failed errno=25=ENOTTY=Not a typewriter
+13:32:48.687433: Camera.cpp:1483: Camera::ReadExtControl  control 
+13:32:48.687444: Camera.cpp:1472: Camera::ReadExtControl VIDIOC_QUERYCTRL  function name: ReadAutoGain control name: V4L2_CID_AUTOGAIN failed errno=25=ENOTTY=Not a typewriter
+13:32:48.687452: Camera.cpp:1483: Camera::ReadExtControl  control 
+13:32:48.687461: Camera.cpp:1472: Camera::ReadExtControl VIDIOC_QUERYCTRL  function name: ReadExposure control name: V4L2_CID_EXPOSURE failed errno=25=ENOTTY=Not a typewriter
+13:32:48.687468: V4L2Viewer.cpp:1649: V4L2Viewer::GetImageInformation: exposure not controllable
+13:32:48.687485: Camera.cpp:1561: Camera::ReadMinMax VIDIOC_QUERYCTRL  function name: ReadExposureMinMax control name: V4L2_CID_EXPOSURE () failed errno=25=ENOTTY=Not a typewriter
+13:32:48.687494: Camera.cpp:1483: Camera::ReadExtControl /dev/video0 control Exposure, Auto
+13:32:48.687505: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadAutoExposure control name: V4L2_CID_EXPOSURE_AUTO OK, min=0, max=3, default=3
+13:32:48.687517: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadAutoExposure control name: V4L2_CID_EXPOSURE_AUTO OK =3
+13:32:48.687526: Camera.cpp:1483: Camera::ReadExtControl /dev/video0 control Brightness
+13:32:48.687536: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadBrightness control name: V4L2_CID_BRIGHTNESS OK, min=-64, max=64, default=0
+13:32:48.687546: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadBrightness control name: V4L2_CID_BRIGHTNESS OK =34
+13:32:48.687562: Camera.cpp:1555: Camera::ReadMinMax VIDIOC_QUERYCTRL /dev/video0 function name: ReadMinMaxBrightness control name: V4L2_CID_BRIGHTNESS (Brightness) OK, min=-64, max=64, default=0
+13:32:48.687572: Camera.cpp:783: Camera::ReadFrameSize VIDIOC_G_FMT /dev/video0 OK =1280x720
+13:32:48.687579: V4L2Viewer.cpp:1721: V4L2Viewer::GetImageInformation: width=1280, height=720
+13:32:48.687592: Camera.cpp:1221: Camera::ReadPixelFormat VIDIOC_G_FMT /dev/video0 OK =1196444237
+13:32:48.687603: Camera.cpp:1483: Camera::ReadExtControl /dev/video0 control Gamma
+13:32:48.687614: Camera.cpp:1445: Camera::ReadExtControl VIDIOC_QUERYCTRL /dev/video0 function name: ReadGamma control name: V4L2_CID_GAMMA OK, min=100, max=300, default=100
+13:32:48.687624: Camera.cpp:1457: Camera::ReadExtControl VIDIOC_G_EXT_CTRLS /dev/video0 function name: ReadGamma control name: V4L2_CID_GAMMA OK =100
+13:32:48.687640: Camera.cpp:1555: Camera::ReadMinMax VIDIOC_QUERYCTRL /dev/video0 function name: ReadMinMaxGamma control name: V4L2_CID_GAMMA (Gamma) OK, min=100, max=300, default=100
+13:32:51.389049: Camera.cpp:580: Device Discovery stopped.
+13:32:51.389195: Camera.cpp:681: Camera::StopStreamChannel started.
+13:32:51.419502: Camera.cpp:687: Camera::StopStreamChannel OK.
+13:32:51.420487: Camera.cpp:738: Camera::StopStreaming VIDIOC_STREAMOFF OK
+13:32:51.422328: Camera.cpp:417: Camera::CloseDevice close /dev/video0 OK
+13:32:51.455746: ***** Dump logger exiting, 0 dumps left
+13:32:51.455889: ***** Dump logger stopped. *****
+13:32:51.468005: ***** logger exiting, 0 messages left
+13:32:51.468138: ***** logger stopped. *****

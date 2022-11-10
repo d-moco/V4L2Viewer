@@ -1,0 +1,364 @@
+{
+	"BUILD_DIR" : "/workspaces/nvidia-Tool/V4L2Viewer/build/V4L2ViewerLib_autogen",
+	"CMAKE_BINARY_DIR" : "/workspaces/nvidia-Tool/V4L2Viewer/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/workspaces/nvidia-Tool/V4L2Viewer/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/workspaces/nvidia-Tool/V4L2Viewer",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/workspaces/nvidia-Tool/V4L2Viewer",
+	"HEADERS" : 
+	[
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/AboutWidget.h",
+			"MU",
+			"FHBJQGWTXY/moc_AboutWidget.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/AutoReader.h",
+			"MU",
+			"FHBJQGWTXY/moc_AutoReader.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/AutoReaderWorker.h",
+			"MU",
+			"FHBJQGWTXY/moc_AutoReaderWorker.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/BaseLogger.h",
+			"MU",
+			"FHBJQGWTXY/moc_BaseLogger.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/Camera.h",
+			"MU",
+			"FHBJQGWTXY/moc_Camera.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/CameraListCustomItem.h",
+			"MU",
+			"FHBJQGWTXY/moc_CameraListCustomItem.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/CameraObserver.h",
+			"MU",
+			"FHBJQGWTXY/moc_CameraObserver.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/CustomDialog.h",
+			"MU",
+			"FHBJQGWTXY/moc_CustomDialog.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/CustomGraphicsView.h",
+			"MU",
+			"FHBJQGWTXY/moc_CustomGraphicsView.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/EnumeratorInterface/BooleanEnumerationControl.h",
+			"MU",
+			"OD2QCIC5DQ/moc_BooleanEnumerationControl.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/EnumeratorInterface/ButtonEnumerationControl.h",
+			"MU",
+			"OD2QCIC5DQ/moc_ButtonEnumerationControl.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/EnumeratorInterface/ControlsHolderWidget.h",
+			"MU",
+			"OD2QCIC5DQ/moc_ControlsHolderWidget.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/EnumeratorInterface/IControlEnumerationHolder.h",
+			"MU",
+			"OD2QCIC5DQ/moc_IControlEnumerationHolder.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/EnumeratorInterface/Integer64EnumerationControl.h",
+			"MU",
+			"OD2QCIC5DQ/moc_Integer64EnumerationControl.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/EnumeratorInterface/IntegerEnumerationControl.h",
+			"MU",
+			"OD2QCIC5DQ/moc_IntegerEnumerationControl.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/EnumeratorInterface/ListEnumerationControl.h",
+			"MU",
+			"OD2QCIC5DQ/moc_ListEnumerationControl.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/EnumeratorInterface/ListIntEnumerationControl.h",
+			"MU",
+			"OD2QCIC5DQ/moc_ListIntEnumerationControl.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/FPSCalculator.h",
+			"MU",
+			"FHBJQGWTXY/moc_FPSCalculator.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/FrameObserver.h",
+			"MU",
+			"FHBJQGWTXY/moc_FrameObserver.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/FrameObserverMMAP.h",
+			"MU",
+			"FHBJQGWTXY/moc_FrameObserverMMAP.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/FrameObserverUSER.h",
+			"MU",
+			"FHBJQGWTXY/moc_FrameObserverUSER.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/IOHelper.h",
+			"MU",
+			"FHBJQGWTXY/moc_IOHelper.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/ImageProcessingThread.h",
+			"MU",
+			"FHBJQGWTXY/moc_ImageProcessingThread.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/ImageTransform.h",
+			"MU",
+			"FHBJQGWTXY/moc_ImageTransform.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/LocalMutex.h",
+			"MU",
+			"FHBJQGWTXY/moc_LocalMutex.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/LocalMutexLockGuard.h",
+			"MU",
+			"FHBJQGWTXY/moc_LocalMutexLockGuard.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/Logger.h",
+			"MU",
+			"FHBJQGWTXY/moc_Logger.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/MemoryHelper.h",
+			"MU",
+			"FHBJQGWTXY/moc_MemoryHelper.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/MyFrame.h",
+			"MU",
+			"FHBJQGWTXY/moc_MyFrame.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/MyFrameQueue.h",
+			"MU",
+			"FHBJQGWTXY/moc_MyFrameQueue.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/SelectSubDeviceDialog.h",
+			"MU",
+			"FHBJQGWTXY/moc_SelectSubDeviceDialog.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/Thread.h",
+			"MU",
+			"FHBJQGWTXY/moc_Thread.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/V4L2EventHandler.h",
+			"MU",
+			"FHBJQGWTXY/moc_V4L2EventHandler.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/V4L2Helper.h",
+			"MU",
+			"FHBJQGWTXY/moc_V4L2Helper.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/V4L2Viewer.h",
+			"MU",
+			"FHBJQGWTXY/moc_V4L2Viewer.cpp"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/videodev2_av.h",
+			"MU",
+			"FHBJQGWTXY/moc_videodev2_av.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/workspaces/nvidia-Tool/V4L2Viewer/build/V4L2ViewerLib_autogen/include",
+	"MOC_COMPILATION_FILE" : "/workspaces/nvidia-Tool/V4L2Viewer/build/V4L2ViewerLib_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/workspaces/nvidia-Tool/V4L2Viewer/build",
+		"/workspaces/nvidia-Tool/V4L2Viewer",
+		"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers",
+		"/workspaces/nvidia-Tool/V4L2Viewer/Source/Headers/EnumeratorInterface",
+		"/workspaces/nvidia-Tool/V4L2Viewer/build/V4L2ViewerLib_autogen/include",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/workspaces/nvidia-Tool/V4L2Viewer/build/V4L2ViewerLib_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/V4L2ViewerLib_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/workspaces/nvidia-Tool/V4L2Viewer/build/CMakeFiles/V4L2ViewerLib_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/AboutWidget.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/AutoReader.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/AutoReaderWorker.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/BaseLogger.cpp",
+			"MU"
+		],
+		[ "/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/Camera.cpp", "MU" ],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/CameraListCustomItem.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/CameraObserver.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/CustomDialog.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/CustomGraphicsView.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/EnumeratorInterface/BooleanEnumerationControl.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/EnumeratorInterface/ButtonEnumerationControl.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/EnumeratorInterface/ControlsHolderWidget.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/EnumeratorInterface/IControlEnumerationHolder.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/EnumeratorInterface/Integer64EnumerationControl.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/EnumeratorInterface/IntegerEnumerationControl.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/EnumeratorInterface/ListEnumerationControl.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/EnumeratorInterface/ListIntEnumerationControl.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/FPSCalculator.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/FrameObserver.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/FrameObserverMMAP.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/FrameObserverUSER.cpp",
+			"MU"
+		],
+		[ "/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/IOHelper.cpp", "MU" ],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/ImageProcessingThread.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/ImageTransform.cpp",
+			"MU"
+		],
+		[ "/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/Logger.cpp", "MU" ],
+		[ "/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/MyFrame.cpp", "MU" ],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/MyFrameQueue.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/SelectSubDeviceDialog.cpp",
+			"MU"
+		],
+		[ "/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/Thread.cpp", "MU" ],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/V4L2EventHandler.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/V4L2Helper.cpp",
+			"MU"
+		],
+		[
+			"/workspaces/nvidia-Tool/V4L2Viewer/Source/Source/V4L2Viewer.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [ "/workspaces/nvidia-Tool/V4L2Viewer/Source/Resources/Forms" ],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
